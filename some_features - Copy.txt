@@ -1,4 +1,0 @@
-first some_feature
-second some_feature
-third some_feature_fixed
-
