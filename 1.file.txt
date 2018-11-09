@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 some content
 Merge revisions while pulling changes
+=======
+Merge revisions while pulling changes
+some content
+>>>>>>> 4262138339fb06dd25dcc33e7345c149b0ef1c4c
