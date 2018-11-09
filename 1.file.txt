@@ -1,1 +1,2 @@
+Merge revisions while pulling changes
 some content
