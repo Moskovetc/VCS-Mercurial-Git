@@ -1,1 +1,2 @@
+STEP F : Merge revisions while pulling changes
 Commit
