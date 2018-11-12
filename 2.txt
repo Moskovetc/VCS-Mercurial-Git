@@ -1,2 +1,0 @@
-new Feature from Korman
-Merge revisions while pulling changes
