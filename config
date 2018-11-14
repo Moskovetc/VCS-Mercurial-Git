@@ -1,0 +1,10 @@
+alias.graph=log --graph --oneline
+alias.last=log -1 HEAD
+alias.develop=checkout develop
+alias.master=checkout master
+alias.st=status
+alias.lll=log --all --oneline
+alias.s=log -S
+alias.g=log --oneline -G
+alias.l=log -L
+alias.lllf=log --all --pretty=format:"%h - %an, %ar : %s"
